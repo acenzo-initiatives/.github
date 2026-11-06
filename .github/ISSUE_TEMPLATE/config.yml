@@ -1,0 +1,8 @@
+blank_issues_enabled: true
+contact_links:
+  - name: Acenzo Bounty Board (Kanban)
+    url: https://github.com/orgs/acenzo-initiatives/projects
+    about: Track bounty status across all Acenzo repositories (To-Do, In Progress, PR Submitted, UAT / Staging, Done).
+  - name: Acenzo Slack - Bounty Channel
+    url: https://acenzo-initiatives.slack.com
+    about: Ask a maintainer about a bounty before claiming it.
